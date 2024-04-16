@@ -2,6 +2,22 @@ apiVersion: v1
 entries:
   glide:
   - apiVersion: v2
+    appVersion: 0.0.3
+    created: "2024-04-16T22:32:57.53626996Z"
+    description: Glide Helm Chart, an open blazing-fast simple model gateway for production-ready
+      GenAI apps
+    digest: 5781b5fd1c2c90a27815a7319385e0c596ecfaf27e425fea8b9bf713645f440c
+    home: https://glide.einstack.ai/
+    maintainers:
+    - name: roma-glushko
+    name: glide
+    sources:
+    - https://github.com/EinStack/charts/tree/main/charts/glide
+    type: application
+    urls:
+    - https://github.com/EinStack/charts/releases/download/glide-0.0.2/glide-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     appVersion: 0.0.1
     created: "2024-02-14T20:57:57.331400833Z"
     description: Glide Helm Chart, an open blazing-fast simple model gateway for production-ready
@@ -17,4 +33,4 @@ entries:
     urls:
     - https://github.com/EinStack/charts/releases/download/glide-0.0.1/glide-0.0.1.tgz
     version: 0.0.1
-generated: "2024-02-14T20:57:57.331432502Z"
+generated: "2024-04-16T22:32:57.536281472Z"
